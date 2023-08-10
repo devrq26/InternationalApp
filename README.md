@@ -6,6 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+This project accompanies my LinkedIn article "How to Internationalise a Flutter Mobile App" - URL:
+
+You will find a full set of instructions in said article.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
