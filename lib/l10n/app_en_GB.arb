@@ -1,0 +1,18 @@
+{
+    "@@locale" : "en_GB",
+    "appName" : "International App",
+    "main_line_1" : "GB: This is the first line.",
+    "@main_line_1" : {
+      "description" : "Metadata description for line 1."
+    },
+    "main_line_2" : "GB: This is the second line.",
+    "@main_line_2" : {
+      "description" : "Metadata description for line 2"
+    },
+    "main_line_3" : "GB: This is the third line.",
+    "@main_line_3" : {
+      "description" : "Metadata description for line 3"
+    },
+    "main_label_times_button_pushed" : "GB: Button push count:",
+     "main_counter_increment_tool_tip" : "increment"
+}
