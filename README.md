@@ -4,7 +4,7 @@ This is a Flutter demo project showing how to internationalise a Flutter App.
 
 The instructions are found in my LinkedIn article "How to Internationalise a Flutter Mobile App"  
 
-URL:
+URL: https://www.linkedin.com/pulse/how-internationalise-flutter-mobile-app-reinhold-quillen
 
 
 ## Getting Started
