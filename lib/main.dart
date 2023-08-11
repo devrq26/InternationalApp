@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
     super.initState();
     // Register an observer for system locale change notifications.
     WidgetsBinding.instance.addObserver(this);
-    // Gets called after the last frame of the page is drawn. Sets
+    // Gets called after the last frame of the page is drawn.
     WidgetsBinding.instance
         .addPostFrameCallback((_) => setLocale(context));
   }
