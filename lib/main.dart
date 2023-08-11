@@ -43,6 +43,8 @@ class MyApp extends StatelessWidget {
       ],
       supportedLocales: const <Locale> [
         // You can set supported languages and regions but not script codes.
+        // If you need to set the language script code, then you need to use
+        // Locale.fromSubtags() - see my LinkedIn article for this project.
         Locale('en'), // English - base file for all countries incl. US locale
         Locale('en', 'AU'), // English - Australia (region)
         Locale('en', 'GB'), // English - UK (region)
